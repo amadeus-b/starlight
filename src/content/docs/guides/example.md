@@ -1,12 +1,11 @@
 ---
 title: Example Guide in german
-template: splash
 hero:
   title: 'My Project: Stellar Stuff Sooner'
   tagline: Take your stuff to the moon and back in the blink of an eye.
   image:
     alt: A glittering, brightly colored logo
-    file: img/gutschein-landingpage.jpg
+    file: ~/assets/gutschein-landingpage.jpg
 lastUpdated: 2025-03-09
 ---
 
