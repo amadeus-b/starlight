@@ -7,6 +7,24 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
+			// Set German as the default language for this site.
+ 			defaultLocale: 'de',
+      			locales: {
+        		// German docs in `src/content/docs/de/`
+        		de: {
+          		  label: 'Deutsch',
+        		},
+		        // Thai docs in `src/content/docs/th/`
+		        'th': {
+		          label: 'ไทย',
+		          lang: 'th',
+		        },
+		        // English docs in `src/content/docs/en/`
+		        en: {
+		          label: 'Englisch',
+		          lang: 'en',
+		        },
+		      },
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
