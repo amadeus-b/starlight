@@ -5,7 +5,7 @@ hero:
   tagline: Take your stuff to the moon and back in the blink of an eye.
   image:
     alt: A glittering, brightly colored logo
-    file: ~/assets/houston.webp
+    file: ./gutschein-landingpage.jpg
 lastUpdated: 2025-03-09
 ---
 
