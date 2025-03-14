@@ -8,7 +8,7 @@ export default defineConfig({
 		starlight({
 			title: 'My Docs',
 			logo: {
-				src: '.src/assets/my-logo.svg',
+				src: './src/assets/my-logo.svg',
 				replacesTitle: true,
 			},
 			// Set German as the default/root language for this site.
