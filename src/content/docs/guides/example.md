@@ -1,6 +1,6 @@
 ---
 title: Example Guide in german
-description: A guide in my new Starlight docs site.
+template: splash
 hero:
   title: 'My Project: Stellar Stuff Sooner'
   tagline: Take your stuff to the moon and back in the blink of an eye.
