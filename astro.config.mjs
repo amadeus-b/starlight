@@ -8,14 +8,15 @@ export default defineConfig({
 		starlight({
 			title: 'My Docs',
 			// Set German as the default language for this site.
- 			defaultLocale: 'de',
+ 			defaultLocale: 'root',
       			locales: {
         		// German docs in `src/content/docs/de/`
-        		de: {
+        		root: {
           		  label: 'Deutsch',
+			  lang: 'de',
         		},
 		        // Thai docs in `src/content/docs/th/`
-		        'th': {
+		        th: {
 		          label: 'ไทย',
 		          lang: 'th',
 		        },
