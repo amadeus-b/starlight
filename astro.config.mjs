@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
+			favicon: '/public/favicon.svg',
 			logo: {
 				src: './src/assets/my-logo.svg',
 				replacesTitle: true,
