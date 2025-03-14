@@ -1,7 +1,7 @@
 ---
 title: Example Guide in german
 description: A guide in my new Starlight docs site.
-img: /img/Traditionelle-Thai-Massage.jpg
+img: /img/gutschein-landingpage.jpg
 lastUpdated: 2025-03-09
 ---
 
