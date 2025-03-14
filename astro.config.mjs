@@ -7,6 +7,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
+			logo: {
+				src: '.src/assets/logo.svg',
+				replacesTitle: true,
+			},
 			// Set German as the default/root language for this site.
  			defaultLocale: 'root',
       			locales: {
