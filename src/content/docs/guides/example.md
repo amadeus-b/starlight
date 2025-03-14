@@ -1,8 +1,6 @@
 ---
 title: Example Guide in german
 hero:
-  title: 'My Project: Stellar Stuff Sooner'
-  tagline: Take your stuff to the moon and back in the blink of an eye.
   image:
     alt: A glittering, brightly colored logo
     file: ./gutschein-landingpage.jpg
