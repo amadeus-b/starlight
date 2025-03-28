@@ -34,6 +34,16 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
+			head: [
+				{
+					tag: 'meta',
+					attrs: { property: 'og:image', content: ogUrl },
+				},
+				{
+					tag: 'meta',
+					attrs: { property: 'og:image:alt', content: ogImageAlt },
+				},
+			],
 			sidebar: [
     				{
       					label: 'Guides',
