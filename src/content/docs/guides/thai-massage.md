@@ -4,7 +4,7 @@ slug: thai-massage
 hero:
   image:
     alt: Frau entspannt bei massage
-    file: ./img/Traditionelle-Thai-Massage.jpg
+    file: ./Traditionelle-Thai-Massage.jpg
 lastUpdated: 2025-03-09
 sidebar:
   order: 1
