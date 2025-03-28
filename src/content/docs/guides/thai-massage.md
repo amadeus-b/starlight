@@ -8,12 +8,10 @@ lastUpdated: 2025-03-09
 ---
 
 # Traditionelle Thai-Massage
-![Frau während einer entspannenden Thai-Massage auf einer Matte](/img/Traditionelle-Thai-Massage.jpg)
+![Frau während einer entspannenden Thai-Massage auf einer Matte](./Traditionelle-Thai-Massage.jpg)
 ## Die Kunst der Thai-Massage: Ganzheitliche Heilung seit 2500 Jahren
 
 Die **Traditionelle Thai-Massage (Nuat Phaen Boran)** verbindet Akupressur, yogagleiche Dehnungen und Energiearbeit zu einem Ritual, das Körper und Geist in Einklang bringt. Ursprünglich in buddhistischen Tempeln Thailands praktiziert, wird sie heute weltweit gegen Stress, Verspannungen und energetische Blockaden eingesetzt.
-
-<!-- truncate -->
 
 ## Was ist die Thai-Massage?
 
@@ -43,7 +41,7 @@ Typischerweise findet die traditionelle Thai Massage auf einer Matte am Boden st
 
 Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste Thai-Massage vorbereiten: [So bereitest du dich auf deine erste Thai Massage vor](https://coruscating-kleicha-ad70a8.netlify.app/docs/thai-massage-vorbereitung).
 
-![Historische Zeichnung mit energetischen Punkten](/img/geschichte-thai.webp "Technik der Thai-Massage")
+![Historische Zeichnung mit energetischen Punkten](./geschichte-thai.webp "Technik der Thai-Massage")
 
 ### Die vier Säulen der Thai-Massage  
 
@@ -84,7 +82,7 @@ Sowohl die Dehnungen als auch die Akupressur werden idealerweise bis an die Schm
 Die Traditionelle Thai-Massage ist eine wohltuende Behandlungsmethode, die sich für Menschen jeden Alters und jeder Erfahrungsstufe eignet. Sie kann helfen, Stress abzubauen und Muskelverspannungen zu lösen, Schmerzen zu lindern und die Beweglichkeit zu verbessern. Daher ist sie sowohl für Anfänger als auch für Fortgeschrittene geeignet, die nach einer wohltuenden Behandlung suchen.  
 Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vorteilen der Thai-Massage profitieren möchte.  
 
-![Frau genießt eine entspannende Thai-Massage und lächelt zufrieden](/img/massage-entspannen.webp "Entspannung pur: Erleben Sie die wohltuende Wirkung einer Thai-Massage")
+![Frau genießt eine entspannende Thai-Massage und lächelt zufrieden](./massage-entspannen.webp "Entspannung pur: Erleben Sie die wohltuende Wirkung einer Thai-Massage")
 
 ### Körperliche Vorteile  
 1. 🌿 **Entgiftung**: Stimuliert Lymphfluss und Ausscheidung von Stoffwechselabfällen.  
@@ -112,7 +110,7 @@ Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 J
 
 Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. 🌏  
 
-![Geschichte der Thai-Massage: Traditionelle Heilkunst aus Thailand](/img/geschichte.webp "Entdecken Sie die Geschichte der Thai-Massage")
+![Geschichte der Thai-Massage: Traditionelle Heilkunst aus Thailand](./geschichte.webp "Entdecken Sie die Geschichte der Thai-Massage")
 
 ---
 
