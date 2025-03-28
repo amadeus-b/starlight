@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Blog | Thai-Massage.de',
 			favicon: '/favicon.svg',
 			logo: {
 				src: './src/assets/my-logo.svg',
