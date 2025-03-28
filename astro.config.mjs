@@ -43,11 +43,11 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				],
 			customCss: [
-       				 // Relative path to your custom CSS file
+       					 // Relative path to your custom CSS file
      					'./src/styles/custom.css',
     				  ],
-			],
 		}),
 	],
 });
