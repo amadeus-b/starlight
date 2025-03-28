@@ -35,11 +35,10 @@ export default defineConfig({
 				github: 'https://github.com/withastro/starlight',
 			},
 			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+    				{
+      					label: 'Guides',
+      					// Autogenerate a group of links for the 'constellations' directory.
+      					autogenerate: { directory: 'guides' },
 					],
 				},
 				{
