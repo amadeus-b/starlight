@@ -37,9 +37,7 @@ export default defineConfig({
 			sidebar: [
     				{
       					label: 'Guides',
-      					// Autogenerate a group of links for the 'constellations' directory.
       					autogenerate: { directory: 'guides' },
-					],
 				},
 				{
 					label: 'Reference',
