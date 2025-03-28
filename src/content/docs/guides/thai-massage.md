@@ -28,7 +28,7 @@ Der Thai-Massage-Therapeut arbeitet in der Regel mit Hand, Unterarm, Ellenbogen,
 
 Die positiven Auswirkungen dieser Massagetechnik haben sich weltweit bewiesen: In Thailand 🇹🇭 gibt es Hunderte von Tempeln mit professionell ausgebildetem Personal für diese Art von Meditationstechniken 🧘‍♀️ und traditioneller Heilkunde – weltweit findet man dieses Wissen nach wie vor in lebendiger Tradition vor!  
 
-🎯 Ziel ist es, Stress abzubauen 🌿, Schmerzen zu lindern 💆‍♀️, die Beweglichkeit zu verbessern 🤸‍♀️ und das Immunsystem zu stärken 💪.  
+🎯 Ziel ist es, Stress abzubauen, Schmerzen zu lindern, die Beweglichkeit zu verbessern und das Immunsystem zu stärken.  
 
 :::tip[Wussten Sie schon?]  
 Die Thai-Massage wird auch „passives Yoga“ genannt: Der Therapeut bewegt Ihren Körper in Positionen, die an Asanas erinnern.  
