@@ -9,7 +9,7 @@ lastUpdated: 2025-03-09
 ## Die Kunst der Thai-Massage: Ganzheitliche Heilung seit 2500 Jahren
 
 Die **Traditionelle Thai-Massage (Nuat Phaen Boran)** verbindet Akupressur, yogagleiche Dehnungen und Energiearbeit zu einem Ritual, das Körper und Geist in Einklang bringt. Ursprünglich in buddhistischen Tempeln Thailands praktiziert, wird sie heute weltweit gegen Stress, Verspannungen und energetische Blockaden eingesetzt.
----
+
 ## Was ist die Thai-Massage?
 
 Die Thai-Massage ist eine **aktive Behandlungsform** – kein passives Entspannen auf der Liege.  
