@@ -1,0 +1,34 @@
+---
+import Default from "@astrojs/starlight/components/Footer.astro";
+import { Icon } from "@astrojs/starlight/components";
+---
+
+<Default />
+
+<footer class="custom-footer">
+	<p>© Copyright Thai-Massage.de</p>
+	<nav>
+		<a href="https://thai-massage.de/datenschutz">Datenschutz</a> | 
+		<a href="https://thai-massage.de/impressum">Impressum</a>
+	</nav>
+</footer>
+
+<style>
+	.custom-footer {
+		text-align: center;
+		margin-top: 2rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	.custom-footer nav {
+		margin-top: 0.5rem;
+	}
+	.custom-footer a {
+		color: var(--sl-color-gray-3);
+		text-decoration: none;
+	}
+	.custom-footer a:hover {
+		text-decoration: underline;
+		color: var(--sl-color-white);
+	}
+</style>
