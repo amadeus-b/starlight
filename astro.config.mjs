@@ -12,6 +12,9 @@ export default defineConfig({
 				src: './src/assets/my-logo.svg',
 				replacesTitle: true,
 			},
+			      components: {
+        			Footer: './src/components/Footer.astro', // Pfad muss stimmen!
+     			 },
 			// Set German as the default/root language for this site.
  			defaultLocale: 'root',
       			locales: {
